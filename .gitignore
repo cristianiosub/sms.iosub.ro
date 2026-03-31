@@ -1,0 +1,20 @@
+# Configuration
+config.php
+*.sql
+settings.php
+*.env
+
+# Log files
+*.log
+/logs/
+/log/
+
+# htaccess
+/.htaccess
+
+#documents
+*.pdf
+*.csv
+*.docx
+*.doc
+/storage/
